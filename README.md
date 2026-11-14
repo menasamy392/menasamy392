@@ -1,42 +1,265 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is mina Sami
-==================================================================================================================================
+<div align="center">
 
-Flutter & iOS Developer | Building Modern, Responsive, and User-Friendly Mobile Applications
---------------------------------------------------------------------------------------------
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=230&section=header&text=Mina%20Sami&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20iOS%20Developer&descAlignY=60&descSize=24"/>
 
-👨‍💻 Flutter & iOS Developer | Mobile App Enthusiast
+# Hey, I'm Mina! 👋
 
-I’m a passionate Flutter and iOS Developer focused on building modern, high-performance, and user-friendly mobile applications. I enjoy transforming creative ideas into functional, visually appealing digital experiences.
+### 💙 Flutter Developer | 🍎 iOS Developer | 🎓 Computer Science Student
 
-🚀 I specialize in developing cross-platform mobile applications using Flutter and Dart, with a strong interest in iOS development, responsive UI/UX design, and clean, maintainable code.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&repeat=true&width=700&lines=Passionate+Flutter+Developer;Building+Beautiful+Mobile+Applications;Flutter+%7C+Dart+%7C+iOS;Turning+Ideas+Into+Mobile+Experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Growing"/>
 
-💡 As a Computer Science student, I’m continuously expanding my knowledge of software engineering, exploring new technologies, and improving my problem-solving skills.
+<br/>
 
-🛠️ Skills & Technologies:
+<a href="https://github.com/menasamy392">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\* Mobile Development: Flutter, Dart, iOS
+<a href="https://www.linkedin.com/in/mina-sami-44067333b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\* Development Tools: Android Studio, Xcode, Git & GitHub
+<a href="mailto:menasamy392@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-\* UI/UX: Responsive Design, Figma, Material Design
+<br/><br/>
 
-\* Programming: Object-Oriented Programming (OOP)
+<img src="https://komarev.com/ghpvc/?username=menasamy392&label=PROFILE+VIEWS&color=0175C2&style=for-the-badge"/>
 
-\* Software Development: Debugging, Problem-Solving, Clean Code
+<img src="https://img.shields.io/github/followers/menasamy392?label=FOLLOWERS&style=for-the-badge&color=02569B"/>
 
-🎯 My Goal: To become a professional mobile application developer, contribute to innovative projects, and create applications that deliver exceptional user experiences.
+</div>
 
-📱 Turning Ideas Into Powerful Mobile Experiences.
+---
 
-* 🌍  I'm based in Egypt
-* ✉️  You can contact me at [menasamy392@gmail.com](mailto:menasamy392@gmail.com)
-* 🧠  I'm currently learning 🚀 I’m Currently Learning & Improving My Skills In: 📱 Flutter & Dart Development – Building high-performance, scalable, and visually appealing cross-platform mobile applications with modern UI components, reusable widgets, and responsive layouts. 🍎 iOS Development – Expanding my knowledge of Apple’s development ecosystem, including Xcode, Swift, SwiftUI, iOS application architecture, and platform-specific features. 🏗️ Clean Architecture & Design Patterns – Learning how to structure applications using SOLID principles, Object-Oriented Programming (OOP), MVVM, and maintainable coding practices. ⚡ State Management – Exploring Bloc, Cubit, Provider, and Riverpod to manage application states efficiently and develop scalable Flutter applications. 🔥 Firebase & Backend Integration – Working with Firebase Authentication, Cloud Firestore, Firebase Storage, and push notifications to build connected, real-world mobile applications. 🌐 REST APIs & Networking – Learning API integration, JSON parsing, asynchronous programming, HTTP requests, error handling, and secure data communication. 🎨 UI/UX Design & Animations – Improving my skills in Figma, Material Design, Cupertino widgets, custom animations, and adaptive interfaces to deliver seamless user experiences. 🗄️ Databases & Local Storage – Exploring SQLite, Hive, SharedPreferences, and secure local storage for efficient data management. 🧪 Testing & Debugging – Developing skills in unit testing, widget testing, integration testing, performance optimization, and debugging using Flutter DevTools and Xcode. 🔧 Version Control & Collaboration – Strengthening my knowledge of Git, GitHub, branching strategies, pull requests, and collaborative software development workflows. 🎯 My Current Focus: Mastering Flutter and iOS development, building production-ready mobile applications, improving code quality, and continuously exploring modern technologies to become a skilled Mobile Application Developer.
-* 👥  I'm looking to collaborate on 🤝 I’m Open to Collaborating On: I’m always excited to collaborate with passionate developers, creative designers, and innovative teams on projects that solve real-world problems and deliver meaningful digital experiences. 📱 Flutter & Cross-Platform Applications – Developing modern, scalable, and high-performance mobile applications for Android and iOS using Flutter and Dart. 🍎 iOS Application Development – Collaborating on native and cross-platform iOS projects, exploring Swift, SwiftUI, and Apple’s development ecosystem. 🚀 Startups & Innovative Mobile Projects – Transforming creative ideas into functional applications, from initial concepts and UI/UX designs to fully developed mobile solutions. 🌍 Open-Source Projects – Contributing to Flutter packages, reusable UI components, developer tools, and community-driven projects. 🎨 UI/UX Design & Implementation – Turning Figma designs into responsive, interactive, and visually appealing mobile interfaces with smooth animations. 🔥 Firebase & API-Based Applications – Building applications featuring user authentication, real-time databases, cloud storage, REST API integration, and push notifications. 🧠 AI-Powered Mobile Applications – Exploring opportunities to integrate artificial intelligence, machine learning, and intelligent features into mobile applications. 💼 Freelance & Team-Based Projects – Working with developers, startups, and businesses to build reliable, user-friendly mobile solutions while gaining practical experience. 🎯 My Collaboration Goal: To contribute to meaningful projects, exchange knowledge with experienced developers, strengthen my technical expertise, and create innovative mobile applications that make a real impact. 💡 Let’s Connect, Collaborate, and Build Something Amazing!
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" alt="Perl" title="Perl" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" title="Clerk" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-</p>
+I'm **Mina Sami**, a passionate **Flutter & iOS Developer** and Computer Science student based in Egypt 🇪🇬.
 
-### Socials
+I focus on creating modern, responsive, and user-friendly mobile applications that combine beautiful design with efficient functionality.
 
-<p align="left"> <a href="https://www.github.com/menasamy392" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/menasamy392" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/mina-sami-44067333b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+My passion lies in transforming creative ideas into meaningful digital experiences through clean code, intuitive interfaces, and modern development technologies.
+
+I believe great software is built through continuous learning, creative problem-solving, and attention to detail.
+
+- 📱 Focused on **Flutter & Cross-Platform Development**
+- 🍎 Exploring **Native iOS Development**
+- 🎓 Studying **Computer Science**
+- 🎨 Interested in **UI/UX Design & Mobile Animations**
+- 🧠 Improving my **Problem-Solving & Software Engineering Skills**
+- 🚀 Building projects to strengthen my practical experience
+- 🤝 Open to **Collaboration, Open Source & Freelance Opportunities**
+- 🌍 Based in **Egypt**
+- 📬 Reach me at **menasamy392@gmail.com**
+
+> 💡 "Turning creative ideas into powerful mobile experiences."
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💙 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark"/>
+
+<br/><br/>
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github&theme=dark"/>
+
+<br/><br/>
+
+### 🎨 UI/UX Design
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+
+<br/><br/>
+
+### 💻 Programming Foundations
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark"/>
+
+<br/><br/>
+
+### 🔥 Technologies I'm Exploring
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark"/>
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+I'm continuously expanding my knowledge and developing the skills required to build professional, production-ready mobile applications.
+
+| Technology | Current Learning Focus |
+|:---|:---|
+| 💙 **Flutter** | Advanced Widgets, Custom UI, Animations & Responsive Design |
+| 🎯 **Dart** | OOP, Asynchronous Programming & Best Practices |
+| 🍎 **Swift & SwiftUI** | Native iOS Development |
+| 🏗️ **Clean Architecture** | SOLID Principles, MVVM & Design Patterns |
+| ⚡ **State Management** | Bloc, Cubit, Provider & Riverpod |
+| 🔥 **Firebase** | Authentication, Firestore, Storage & Notifications |
+| 🌐 **REST APIs** | HTTP Requests, JSON & Backend Integration |
+| 🗄️ **Local Storage** | SQLite, Hive & SharedPreferences |
+| 🧪 **Testing** | Unit Tests, Widget Tests & Debugging |
+| 🎨 **UI/UX** | Figma, Material Design & Cupertino |
+| 🔧 **Version Control** | Git, GitHub & Collaborative Workflows |
+
+---
+
+## 📱 Featured Projects
+
+<div align="center">
+
+### 💻 Building, Learning & Creating
+
+</div>
+
+### 🌌 Space Explorer — Flutter App
+
+A space-themed Flutter application developed to practice modern mobile UI design and Flutter development fundamentals.
+
+**Technologies:** `Flutter` `Dart` `Material Design`
+
+**Development Areas:**
+- Custom Flutter Widgets
+- Responsive Mobile Layouts
+- Screen Navigation
+- Asset Management
+- Reusable UI Components
+
+**Repository:** Add project link when published.
+
+---
+
+### 📱 Flutter UI Development
+
+A collection of Flutter development experiments focused on creating beautiful and interactive mobile interfaces.
+
+**Development Areas:**
+- Custom Widgets
+- Responsive Layouts
+- Material Design
+- Navigation
+- UI Components
+
+**Repository:** Add project link when published.
+
+---
+
+### 🚀 Future Projects
+
+I'm interested in developing applications in the following areas:
+
+- 📚 Educational & Productivity Applications
+- 🔥 Firebase-Powered Mobile Applications
+- 🤖 AI-Integrated Mobile Experiences
+- 🌍 Cross-Platform Applications
+- 🎨 Advanced UI/UX Mobile Projects
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=menasamy392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menasamy392&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=menasamy392&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=menasamy392&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=menasamy392&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm always excited to connect with passionate developers, creative designers, and innovative teams.
+
+I'm particularly interested in collaborating on:
+
+- 💙 Flutter & Dart Applications
+- 🍎 iOS Development Projects
+- 🚀 Startup & Innovative Mobile Applications
+- 🌍 Open-Source Contributions
+- 🎨 UI/UX Design Implementation
+- 🔥 Firebase & API-Based Applications
+- 🤖 AI-Powered Mobile Experiences
+- 💼 Freelance & Team-Based Projects
+
+My goal is to contribute to meaningful projects, exchange knowledge, and continuously grow as a mobile application developer.
+
+---
+
+## 🎯 Professional Goals
+
+```text
+01  Master Flutter & Dart Development
+02  Strengthen Native iOS Development Skills
+03  Build Real-World Mobile Applications
+04  Learn Advanced Software Architecture
+05  Contribute to Open-Source Projects
+06  Become a Professional Mobile Software Engineer
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/menasamy392">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mina-sami-44067333b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/menasamy392">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:menasamy392@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💙 Let's Build Something Amazing Together!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!;Keep+Learning.+Keep+Building.;Happy+Coding!"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=130&section=footer"/>
+
+</div>
