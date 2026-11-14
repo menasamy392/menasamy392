@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mina Sami!
+# 👋 Hi, I'm Mina Sami
 
 ### 💙 Flutter & iOS Developer
 
