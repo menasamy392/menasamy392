@@ -1,32 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=230&section=header&text=Mina%20Sami&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20iOS%20Developer&descAlignY=60&descSize=24"/>
+# 👋 Hi, I'm Mina Sami!
 
-# Hey, I'm Mina! 👋
+### 💙 Flutter & iOS Developer
 
-### 💙 Flutter Developer | 🍎 iOS Developer | 🎓 Computer Science Student
+**🎓 Computer Science Student · 📍 Egypt**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&repeat=true&width=700&lines=Passionate+Flutter+Developer;Building+Beautiful+Mobile+Applications;Flutter+%7C+Dart+%7C+iOS;Turning+Ideas+Into+Mobile+Experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Growing"/>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=480&lines=Building+Beautiful+Mobile+Apps;Flutter+%26+Dart+Enthusiast;Learning+%7C+Building+%7C+Growing;Turning+Ideas+Into+Reality" alt="Animated developer introduction" width="100%" />
+
+<br>
 
 <a href="https://github.com/menasamy392">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://www.linkedin.com/in/mina-sami-44067333b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:menasamy392@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=menasamy392&label=PROFILE+VIEWS&color=0175C2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/menasamy392?label=FOLLOWERS&style=for-the-badge&color=02569B"/>
+<img src="https://komarev.com/ghpvc/?username=menasamy392&label=Profile+Views&color=0175C2&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/menasamy392?label=Followers&style=flat-square&color=02569B" alt="GitHub followers" />
 
 </div>
 
@@ -36,57 +35,53 @@
 
 I'm **Mina Sami**, a passionate **Flutter & iOS Developer** and Computer Science student based in Egypt 🇪🇬.
 
-I focus on creating modern, responsive, and user-friendly mobile applications that combine beautiful design with efficient functionality.
+I enjoy building modern, responsive, and user-friendly mobile applications. My focus is on combining clean code, intuitive interfaces, and efficient functionality to create meaningful mobile experiences.
 
-My passion lies in transforming creative ideas into meaningful digital experiences through clean code, intuitive interfaces, and modern development technologies.
+I'm continuously improving my software engineering skills, exploring new technologies, and building practical projects to strengthen my experience.
 
-I believe great software is built through continuous learning, creative problem-solving, and attention to detail.
+- 🔭 **Currently working on:** Flutter applications and mobile UI projects.
+- 🌱 **Currently learning:** Advanced Flutter, Dart, Swift, SwiftUI, and Firebase.
+- 📱 **Interested in:** Cross-platform mobile development and iOS applications.
+- 🎨 **Passionate about:** UI/UX design, responsive layouts, and animations.
+- 🏗️ **Exploring:** Clean Architecture, SOLID principles, and state management.
+- 🤝 **Open to:** Collaboration, open-source contributions, and freelance opportunities.
+- 🎯 **Goal:** Become a professional Mobile Software Engineer.
 
-- 📱 Focused on **Flutter & Cross-Platform Development**
-- 🍎 Exploring **Native iOS Development**
-- 🎓 Studying **Computer Science**
-- 🎨 Interested in **UI/UX Design & Mobile Animations**
-- 🧠 Improving my **Problem-Solving & Software Engineering Skills**
-- 🚀 Building projects to strengthen my practical experience
-- 🤝 Open to **Collaboration, Open Source & Freelance Opportunities**
-- 🌍 Based in **Egypt**
-- 📬 Reach me at **menasamy392@gmail.com**
-
-> 💡 "Turning creative ideas into powerful mobile experiences."
+> 💡 **"Turning creative ideas into powerful mobile experiences."**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💙 Mobile Development
+### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark" alt="Flutter, Dart and Swift" />
 
-<br/><br/>
+<br><br>
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=dart,cpp,java,python&theme=dark" alt="Programming languages" />
+
+<br><br>
 
 ### ⚙️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github&theme=dark" alt="Development tools" />
 
-<br/><br/>
+<br><br>
 
 ### 🎨 UI/UX Design
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
 
-<br/><br/>
+<br><br>
 
-### 💻 Programming Foundations
+### 🔥 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark"/>
-
-<br/><br/>
-
-### 🔥 Technologies I'm Exploring
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark" alt="Backend and database technologies" />
 
 </div>
 
@@ -94,73 +89,68 @@ I believe great software is built through continuous learning, creative problem-
 
 ## 🚀 Currently Learning
 
-I'm continuously expanding my knowledge and developing the skills required to build professional, production-ready mobile applications.
+I'm focused on strengthening my mobile development skills and learning how to build scalable, maintainable, and production-ready applications.
 
-| Technology | Current Learning Focus |
+| Technology | Learning Focus |
 |:---|:---|
-| 💙 **Flutter** | Advanced Widgets, Custom UI, Animations & Responsive Design |
+| 💙 **Flutter** | Advanced Widgets, Custom UI, Animations & Responsive Layouts |
 | 🎯 **Dart** | OOP, Asynchronous Programming & Best Practices |
-| 🍎 **Swift & SwiftUI** | Native iOS Development |
+| 🍎 **Swift & SwiftUI** | Native iOS Application Development |
 | 🏗️ **Clean Architecture** | SOLID Principles, MVVM & Design Patterns |
 | ⚡ **State Management** | Bloc, Cubit, Provider & Riverpod |
 | 🔥 **Firebase** | Authentication, Firestore, Storage & Notifications |
-| 🌐 **REST APIs** | HTTP Requests, JSON & Backend Integration |
+| 🌐 **REST APIs** | Networking, JSON Parsing & Backend Integration |
 | 🗄️ **Local Storage** | SQLite, Hive & SharedPreferences |
-| 🧪 **Testing** | Unit Tests, Widget Tests & Debugging |
-| 🎨 **UI/UX** | Figma, Material Design & Cupertino |
-| 🔧 **Version Control** | Git, GitHub & Collaborative Workflows |
+| 🧪 **Testing** | Unit Testing, Widget Testing & Debugging |
+| 🎨 **UI/UX** | Figma, Material Design & Cupertino Widgets |
 
 ---
 
 ## 📱 Featured Projects
 
-<div align="center">
-
-### 💻 Building, Learning & Creating
-
-</div>
-
 ### 🌌 Space Explorer — Flutter App
 
-A space-themed Flutter application developed to practice modern mobile UI design and Flutter development fundamentals.
+A space-themed Flutter learning project focused on creating modern mobile interfaces and practicing essential Flutter development concepts.
 
 **Technologies:** `Flutter` `Dart` `Material Design`
 
-**Development Areas:**
+**Key Development Areas:**
 - Custom Flutter Widgets
 - Responsive Mobile Layouts
-- Screen Navigation
-- Asset Management
+- Navigation Between Screens
+- Image Assets & Layout Design
 - Reusable UI Components
 
-**Repository:** Add project link when published.
+📌 **Repository:** Coming soon
 
 ---
 
-### 📱 Flutter UI Development
+### 📱 Flutter UI Projects
 
-A collection of Flutter development experiments focused on creating beautiful and interactive mobile interfaces.
+A growing collection of Flutter development experiments focused on responsive interfaces and interactive mobile components.
 
-**Development Areas:**
+**Technologies:** `Flutter` `Dart`
+
+**Key Development Areas:**
 - Custom Widgets
-- Responsive Layouts
 - Material Design
+- Responsive UI
 - Navigation
-- UI Components
+- Interactive Components
 
-**Repository:** Add project link when published.
+📌 **Repository:** Coming soon
 
 ---
 
-### 🚀 Future Projects
+### 💡 Future Project Interests
 
-I'm interested in developing applications in the following areas:
+I'm interested in exploring and developing:
 
-- 📚 Educational & Productivity Applications
+- 📚 Educational and Productivity Applications
 - 🔥 Firebase-Powered Mobile Applications
 - 🤖 AI-Integrated Mobile Experiences
 - 🌍 Cross-Platform Applications
-- 🎨 Advanced UI/UX Mobile Projects
+- 🎨 Advanced Mobile UI/UX Projects
 
 ---
 
@@ -168,13 +158,15 @@ I'm interested in developing applications in the following areas:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=menasamy392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=menasamy392&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mina's GitHub statistics" width="100%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menasamy392&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menasamy392&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" width="75%" />
 
-<img src="https://streak-stats.demolab.com?user=menasamy392&theme=tokyonight&hide_border=true" width="60%"/>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=menasamy392&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="85%" />
 
 </div>
 
@@ -184,17 +176,7 @@ I'm interested in developing applications in the following areas:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=menasamy392&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=menasamy392&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=menasamy392&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" width="100%" />
 
 </div>
 
@@ -202,9 +184,9 @@ I'm interested in developing applications in the following areas:
 
 ## 🤝 Open to Collaboration
 
-I'm always excited to connect with passionate developers, creative designers, and innovative teams.
+I'm always excited to collaborate with developers, designers, and innovative teams on meaningful projects.
 
-I'm particularly interested in collaborating on:
+I'm particularly interested in:
 
 - 💙 Flutter & Dart Applications
 - 🍎 iOS Development Projects
@@ -213,53 +195,48 @@ I'm particularly interested in collaborating on:
 - 🎨 UI/UX Design Implementation
 - 🔥 Firebase & API-Based Applications
 - 🤖 AI-Powered Mobile Experiences
-- 💼 Freelance & Team-Based Projects
+- 💼 Freelance & Team-Based Development
 
-My goal is to contribute to meaningful projects, exchange knowledge, and continuously grow as a mobile application developer.
+I believe collaboration, knowledge sharing, and continuous learning are essential parts of becoming a better software engineer.
 
 ---
 
 ## 🎯 Professional Goals
 
-```text
-01  Master Flutter & Dart Development
-02  Strengthen Native iOS Development Skills
-03  Build Real-World Mobile Applications
-04  Learn Advanced Software Architecture
-05  Contribute to Open-Source Projects
-06  Become a Professional Mobile Software Engineer
-```
+- [ ] Master Advanced Flutter & Dart Development
+- [ ] Strengthen Native iOS Development Skills
+- [ ] Build and Publish Real-World Mobile Applications
+- [ ] Improve Software Architecture & Code Quality
+- [ ] Contribute to Open-Source Projects
+- [ ] Build a Strong Mobile Development Portfolio
+- [ ] Become a Professional Mobile Software Engineer
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
+I'm always open to discussing mobile development, exciting projects, and collaboration opportunities.
+
+<br>
+
 <a href="https://github.com/menasamy392">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://www.linkedin.com/in/mina-sami-44067333b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<a href="https://x.com/menasamy392">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
 <a href="mailto:menasamy392@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br/><br/>
+<br><br>
 
-### 💙 Let's Build Something Amazing Together!
+### 💙 Thanks for Visiting My Profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=13B9FD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!;Keep+Learning.+Keep+Building.;Happy+Coding!"/>
+**Keep Learning · Keep Building · Keep Growing**
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=130&section=footer"/>
+⭐ Feel free to explore my repositories and connect with me!
 
 </div>
